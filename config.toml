@@ -36,7 +36,7 @@ anchors = "on"
 nav = [
   { name = "posts", path = "/posts" },
   { name = "discography", path = "/discography" },
-  { name = "github", path = "https://github.com/rayrrr" },
+  { name = "radio", path = "/radio" },
 ]
 
 # Your info on the home page, if you don't want to display handle/bio/avatar, simply comment out that line
