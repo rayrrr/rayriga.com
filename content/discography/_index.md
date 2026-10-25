@@ -1,9 +1,10 @@
 +++
 title = "Discography"
-date = 2026-10-23
-[extra]
-abstract = "Musical Compositions 1994-2017"
+sort_by = "date"
+template = "prose.html"
 +++
+
+# Discography
 
 | Year | Artist | Album | Label | Genre | Role |
 | :--- | :----- | :---- | :---- | :---- | :--- |
