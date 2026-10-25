@@ -27,8 +27,7 @@ However, AAC is a "non-free" (i.e. proprietary) format, so the stock Audacity av
 
 Doing so turned out to be non-trivial, so I'm writing this post in the hopes that it may help you as well. Are you a technologically adventurous internet radio DJ? I encourage you to take this same approach.
 
-I started with the official custom build instructions for Ubuntu-like systems available [here](https://trac.ffmpeg.org/wiki/CompilationGuide/Ubuntu) and had to make a tweak based on this [SO answer](https://stackoverflow.com/q/36692308) to enable Audacity integration. 
-
+I started with the official custom build instructions for Ubuntu-like systems available [here](https://trac.ffmpeg.org/wiki/CompilationGuide/Ubuntu) and had to make a tweak based on a Stack Overflow question entitled "fmpeg library compile for .so files (libavutil.so, libavcore.so, libavcodec.so etc)" to enable Audacity integration. 
 
 Here are the commands as tweaked, that allowed me to successfully export AAC from Audacity on an Ubuntu-like system.
 
