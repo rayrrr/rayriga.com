@@ -4,5 +4,5 @@ template = "posts.html"
 page_template = "post.html"
 
 [extra]
-comments = true
+comment = true
 +++
