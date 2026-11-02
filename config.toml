@@ -4,7 +4,7 @@ description = "personal website"
 default_language = "en"
 theme = "serene"
 output_dir = "public"
-compile_sass = false
+compile_sass = true
 minify_html = false # Keep this false, as it may cause issues with some styles
 build_search_index = false # Keep this false, search is temporarily unsupported
 generate_feeds = false # Whether to generate a feed file in root, read docs for more info about rss feed
@@ -51,7 +51,7 @@ links = [
 blog_section_path = "/posts" # Path of the main blog section, used by home page's recent posts and tags pages
 
 back_link_text = "Back" # Text of the back button
-color_scheme = "auto" # "auto" | "light" | "dark"
+color_scheme = "dark" # "auto" | "light" | "dark"
 
 # og_image = "img/og.png" # The default image for social media sharing (Open Graph), a path in static folder or a full URL
 
